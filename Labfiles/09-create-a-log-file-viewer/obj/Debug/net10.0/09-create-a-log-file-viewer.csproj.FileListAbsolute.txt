@@ -1,0 +1,15 @@
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\bin\Debug\net10.0\09-create-a-log-file-viewer.exe
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\bin\Debug\net10.0\09-create-a-log-file-viewer.deps.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\bin\Debug\net10.0\09-create-a-log-file-viewer.runtimeconfig.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\bin\Debug\net10.0\09-create-a-log-file-viewer.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\bin\Debug\net10.0\09-create-a-log-file-viewer.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.AssemblyInfoInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.AssemblyInfo.cs
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.csproj.CoreCompileInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.sourcelink.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\refint\09-create-a-log-file-viewer.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\09-create-a-log-file-viewer.genruntimeconfig.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\09-create-a-log-file-viewer\obj\Debug\net10.0\ref\09-create-a-log-file-viewer.dll

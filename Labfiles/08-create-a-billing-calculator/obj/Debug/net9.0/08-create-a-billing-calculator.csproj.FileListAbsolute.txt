@@ -1,0 +1,15 @@
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.exe
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.deps.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.runtimeconfig.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\bin\Debug\net9.0\08-create-a-billing-calculator.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.AssemblyInfoInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.AssemblyInfo.cs
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.csproj.CoreCompileInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.sourcelink.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\refint\08-create-a-billing-calculator.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\08-create-a-billing-calculator.genruntimeconfig.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\08-create-a-billing-calculator\obj\Debug\net9.0\ref\08-create-a-billing-calculator.dll

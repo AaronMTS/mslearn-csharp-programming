@@ -1,0 +1,15 @@
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\bin\Debug\net10.0\07-create-a-leaderboard.exe
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\bin\Debug\net10.0\07-create-a-leaderboard.deps.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\bin\Debug\net10.0\07-create-a-leaderboard.runtimeconfig.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\bin\Debug\net10.0\07-create-a-leaderboard.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\bin\Debug\net10.0\07-create-a-leaderboard.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.AssemblyInfoInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.AssemblyInfo.cs
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.csproj.CoreCompileInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.sourcelink.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\refint\07-create-a-leaderboard.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\07-create-a-leaderboard.genruntimeconfig.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\07-create-a-leaderboard\obj\Debug\net10.0\ref\07-create-a-leaderboard.dll

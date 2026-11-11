@@ -1,0 +1,15 @@
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\bin\Debug\net10.0\06-create-guess-the-number-game.exe
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\bin\Debug\net10.0\06-create-guess-the-number-game.deps.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\bin\Debug\net10.0\06-create-guess-the-number-game.runtimeconfig.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\bin\Debug\net10.0\06-create-guess-the-number-game.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\bin\Debug\net10.0\06-create-guess-the-number-game.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.AssemblyInfoInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.AssemblyInfo.cs
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.csproj.CoreCompileInputs.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.sourcelink.json
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\refint\06-create-guess-the-number-game.dll
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.pdb
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\06-create-guess-the-number-game.genruntimeconfig.cache
+D:\Users\Sayson\Documents\Visual Studio Code\VSCode\csharp-guess-the-number\Labfiles\06-create-guess-the-number-game\obj\Debug\net10.0\ref\06-create-guess-the-number-game.dll
